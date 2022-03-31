@@ -1,0 +1,7 @@
+hamlet.txt
+linux_and_bash-AL.ipynb
+num
+poem
+testing.txt
+test.txt
+words
